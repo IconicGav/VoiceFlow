@@ -1,5 +1,6 @@
 # VoiceFlow
 VoiceFlow – Highlights the seamless flow between speaking and typing.
+Currently working more like a Walkie-Talkie ATM
 
 How to Run the Project:
 Activate the virtual environment (if not already activated):
