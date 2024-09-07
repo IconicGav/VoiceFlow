@@ -1,6 +1,6 @@
 import threading
 from listener import start_listener
-from speech_to_text import recognize_speech
+from speech_to_text import recognize_speech_buffered as recognize_speech
 from typer import type_text
 
 def main():
